@@ -1,7 +1,7 @@
 # Privacy Policy for HK Hiking Meetup App
 
 This is the privacy policy for Privacy Policy for HK Hiking Meetup App - hereafter referred to as TheApp.
-TheApps are produced by New Perspectives Far East Limited registered at 3F, 148 Wing Lok Street, Sheung Wan Hong Kong - hereafter referred to as NPFE.
+TheApp is produced by New Perspectives Far East Limited registered at 3F, 148 Wing Lok Street, Sheung Wan Hong Kong - hereafter referred to as NPFE.
 
 ### App users
 TheApp does collect and share information that you have chosen to make public to members of the HK Hiking Meetup meetup.com group.  Your usage of TheApp constitutes your acceptance of this Privacy Policy.
